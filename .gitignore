@@ -1,0 +1,20 @@
+# Ignore virtual environment directories
+env/
+venv/
+
+# If you use Conda
+.conda/
+
+# Ignore Python cache and log files
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore OS and editor-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore specific tool configurations (optional)
+*.env
