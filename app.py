@@ -1,6 +1,6 @@
 import os
 from ultralytics import YOLO
-import cv2
+import cv2 
 import random
 
 # Load your YOLO model
