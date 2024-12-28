@@ -4,7 +4,7 @@ import cv2
 import random
 
 # Load your YOLO model
-model = YOLO(r"F:/Projects/Accident_Detection/best(5).pt")  # Path to your YOLO weights
+model = YOLO(r"F:/Projects/Accident_Detection/models/best(5).pt")  # Path to your YOLO weights
 
 # Input and output video paths
 input_video_path = r"F:\Projects\Accident_Detection\Indian_Car_Accident_Narrow_Escapes(720p).mp4"  # Your input video file
