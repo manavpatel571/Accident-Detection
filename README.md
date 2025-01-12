@@ -49,7 +49,7 @@ Ensure you have Python installed on your system. It is recommended to use Python
    - Detected accident frames will be saved in the `accident frame` folder.
    - Corresponding descriptions will be stored in the `description` folder.
 
-![Description Image]([https://github.com/manavpatel571/AgriTech/blob/main/static/uploads/Screenshot%20(593).png](https://github.com/manavpatel571/Accident-Detection/blob/master/training/InShot_20250103_160953702.jpg))
+![Description Image](training/InShot_20250103_160953702.jpg)
 
 ## Usage Notes
 - Ensure your video file is accessible from the specified path.
