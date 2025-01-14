@@ -2,6 +2,8 @@
 
 This project is designed to detect accidents in a given video using YOLO-based object detection. It processes the video, identifies accident frames, and stores them along with their descriptions in separate folders for further analysis.
 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=RYQQ_z88AnQ)
+
 ## Features
 - Detects accidents in video files.
 - Saves accident frames in the `accident frame` folder.
